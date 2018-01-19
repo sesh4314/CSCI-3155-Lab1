@@ -40,9 +40,9 @@ Needs to be completed
    }
    ```
 1. **Run-Time Library**  
-Needs to be completed
+Completed
 1. **Run-Time Library: Recursion**  
-Needs to be completed
+Completed
 1. **Data Structures Review: Binary Search Trees**  
 Needs to be completed
 1. **JavaScripty Interpreter: Numbers**  
