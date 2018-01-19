@@ -44,6 +44,6 @@ Completed
 1. **Run-Time Library: Recursion**  
 Completed
 1. **Data Structures Review: Binary Search Trees**  
-Needs to be completed
+Completed
 1. **JavaScripty Interpreter: Numbers**  
-Needs to be completed
+Completed
